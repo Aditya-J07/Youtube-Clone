@@ -1,2 +1,2 @@
-# My YouTube Clone
-This is a fun, quick project—a basic clone of YouTube's design and core features, built mostly to mess around with a full stack. It's responsive, handles video display, and lets you search for content. Don't expect production-level code!
+# YouTube Frontend Clone
+This is a fun, quick project—a basic clone of YouTube's design and co, built mostly to mess around with. It's responsive. Don't expect production-level code :D
