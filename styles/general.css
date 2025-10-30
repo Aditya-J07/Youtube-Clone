@@ -1,0 +1,20 @@
+        p{
+            font-family: Roboto,Arial, Helvetica, sans-serif;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+
+        body{
+            font-family: Roboto,Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding-top: 80px;
+            padding-left: 96px;
+            padding-right: 24px;
+            background-color: rgb(243, 243, 243);
+            padding-bottom: 20px;
+        }
+
+        .click{
+            text-decoration: none;
+            color: #000;
+        }
